@@ -1,0 +1,6 @@
+HƯỚNG DẪN CÀI ĐẶT
+B1: CHẠY FILE SQL QL_DANHGIADIEMRL.SQL, BẤM EXECUTE ĐỂ CHẠY CSDL.
+B2: MỞ FILE QL_DANHGIADIEMRL.sln
+B3: XÓA File DataClasses1.dbml trong Solution, sau đó add database vào.
+B4: add vào thêm 1 item LINQ to SQL Classes vào Solution.
+B5: Kéo hết các bảng trong cơ sở dữ lieu vào DataClasses1.dbml và chạy
